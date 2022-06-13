@@ -2,8 +2,8 @@
 //  main.cpp
 //  converter
 //
-//  Created by Hao Peng on 15/9/8.
-//  Copyright (c) 2015年 Hao Peng. All rights reserved.
+//  Created by Deng Xiong, Hao Peng on 15/9/8.
+//  Copyright (c) 2015年 Deng Xiong, Hao Peng. All rights reserved.
 //
 
 
